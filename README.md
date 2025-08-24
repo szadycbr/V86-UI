@@ -4,19 +4,23 @@ You need http server on windows or disable cors in browser. on Android it run ou
 With "help" from GPT5 in VSCODE, 
 help means chat agent done it All.
 i dont know how to code!!! ;)
+![file](https://github.com/user-attachments/assets/d51415ab-6247-47e6-b4f9-c2a5be11ee7d)
+
 
 Quick tips for using the emulator.
 Mouse
 
 Capture: Options → Mouse: Capture (or click screen in some browsers).
     Release: Press Ctrl+Alt together, or click the middle mouse button.
+![fatal](https://github.com/user-attachments/assets/0deeb891-15ea-46d0-9c58-d0fe113048f3)
 
 Media
 
 Load images from File → Load Floppy/Hard Disk/CD-ROM. Eject from File.
     LEDs: FD/HD/CD light on activity. DrvStat squares turn green when media is loaded.
 
-Keyboard
+Keyboard is only to use emu on
+mobile, not intended for gaming.
 
 Toggle on-screen keyboard from Options → Keyboard.
     Resize via Options → KBD.
@@ -27,4 +31,5 @@ Toggle on-screen keyboard from Options → Keyboard.
 Boot
 
 Choose boot order from the Boot menu. Use File → Boot to start after changing settings.
+![f22](https://github.com/user-attachments/assets/05fd9274-e378-4902-9d21-aca45535b791)
 
