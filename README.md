@@ -6,12 +6,10 @@ help means chat agent done it All.
 i dont know how to code!!! ;)
 
 File Menu 
-![file](https://github.com/user-attachments/assets/d0531098-db64-46ae-aeaa-b0d67579ff53)
+![file](https://github.com/user-attachments/assets/329e17bf-ba2d-4c8b-9657-cc2861e6f733)
 
 Options menu
-![options](https://github.com/user-attachments/assets/ae323df5-7cb4-41fc-8c18-8cd088e09e11)
-
-
+![options](https://github.com/user-attachments/assets/800d6566-d8b1-466c-9142-09a97b71a611)
 
 Quick tips for using the emulator.
 Mouse
@@ -34,14 +32,16 @@ Toggle on-screen keyboard from Options → Keyboard.
     Hold Caps for ~1s to lock; its small LED on the key shows lock state. Click again to unlock.
 
 Boot order
-![boot](https://github.com/user-attachments/assets/74f82d7d-2f57-4959-a327-dcfdf1b0e8dc)
-
+![boot](https://github.com/user-attachments/assets/89d9c59f-a1a9-426a-83ed-239d9f96795e)
 
 Choose boot order from the Boot menu. Use File → Boot to start after changing settings.
 
+![dc](https://github.com/user-attachments/assets/e79cf73c-1fed-48ba-8355-debbc4b46410)
+
+
 Many games work, many dont, but its fun ;) F22 works on my poco x3 pro although 2-4 fps, screamer rally on vga gets 10-15 fps,fatal racing 20-25 fps ;), doom and similar games works well but some 2d titles are slow.
-![f22](https://github.com/user-attachments/assets/acbf2f45-ce3e-43c5-a5f1-2ceb7b2d7afa)
-![fatal](https://github.com/user-attachments/assets/139eabc4-bb2d-43eb-bfa2-ed0b1f9b4bdb)
+![fatal](https://github.com/user-attachments/assets/b012d80d-25cc-48c6-9864-edb2fa94ee3f)
+![f22](https://github.com/user-attachments/assets/36b5e1bd-acc4-49ea-9f94-dbad9e89d884)
 
 i upload some floppy games for testing ;)
 
