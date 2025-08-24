@@ -1,6 +1,9 @@
 # V86-UI
 v86 with wasm js and html UI
-You need http server on windows or disable cors in browser. on Android it run out of the box when launched through cx-explorer on any browser, http server is created automatically. not perfect UI but its my first attempt to make V86 easy and useable on smartphone;)
+You need http server on windows or disable cors in browser. on Android it run out of the box when launched through cx-explorer on any browser, http server is created automatically. not perfect UI but its my first attempt to make V86 easy and useable on smartphone;) ,
+With "help" from GPT5 in VSCODE, 
+help means chat agent done it All.
+i dont know how to code!!! ;)
 
 Quick tips for using the emulator.
 Mouse
