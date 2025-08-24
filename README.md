@@ -4,17 +4,17 @@ v86 with wasm js and html UI
 Quick tips for using the emulator.
 Mouse
 
-    Capture: Options → Mouse: Capture (or click screen in some browsers).
+Capture: Options → Mouse: Capture (or click screen in some browsers).
     Release: Press Ctrl+Alt together, or click the middle mouse button.
 
 Media
 
-    Load images from File → Load Floppy/Hard Disk/CD-ROM. Eject from File.
+Load images from File → Load Floppy/Hard Disk/CD-ROM. Eject from File.
     LEDs: FD/HD/CD light on activity. DrvStat squares turn green when media is loaded.
 
 Keyboard
 
-    Toggle on-screen keyboard from Options → Keyboard.
+Toggle on-screen keyboard from Options → Keyboard.
     Resize via Options → KBD.
     Move KBD: drag the small handle next to the ✕ button (up/down only).
     Hold Shift/Alt/Ctrl for ~1s to lock; click again to unlock.
@@ -22,5 +22,5 @@ Keyboard
 
 Boot
 
-    Choose boot order from the Boot menu. Use File → Boot to start after changing settings.
+Choose boot order from the Boot menu. Use File → Boot to start after changing settings.
 
