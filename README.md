@@ -39,7 +39,7 @@ Choose boot order from the Boot menu. Use File → Boot to start after changing 
 ![dc](https://github.com/user-attachments/assets/e79cf73c-1fed-48ba-8355-debbc4b46410)
 
 
-Many games work, many dont, but its fun ;) F22 works on my poco x3 pro although 2-4 fps, screamer rally on vga gets 10-15 fps,fatal racing 20-25 fps ;), doom and similar games works well but some 2d titles are slow.
+Many games work, many dont, but its fun ;) F22 works on my poco x3 pro although 2-4 fps, screamer rally on vga gets 5-15fps,fatal racing 10-15 fps ;), doom and similar games works quite well but some 2d titles are slow.
 ![fatal](https://github.com/user-attachments/assets/b012d80d-25cc-48c6-9864-edb2fa94ee3f)
 ![f22](https://github.com/user-attachments/assets/36b5e1bd-acc4-49ea-9f94-dbad9e89d884)
 
