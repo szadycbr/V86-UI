@@ -26,7 +26,8 @@ mobile, not intended for gaming.
 
 Toggle on-screen keyboard from Options → Keyboard.
     Resize via Options → KBD.
-    Move KBD: drag the small handle next to the ✕ button (up/down only).
+    Move KBD: drag the small handle next to the ✕ button (up/down only), freemove html kbd move freely
+    in all directions, not much use on mobile.
     Hold Shift/Alt/Ctrl for ~1s to lock; click again to unlock.
     Hold Caps for ~1s to lock; its small LED on the key shows lock state. Click again to unlock.
 
@@ -38,7 +39,7 @@ Choose boot order from the Boot menu. Use File → Boot to start after changing 
 ![dc](https://github.com/user-attachments/assets/e79cf73c-1fed-48ba-8355-debbc4b46410)
 
 
-Many games work, many dont, but its fun ;) F22 works on my poco x3 pro although 2-4 fps, screamer rally on vga gets 5-15fps,fatal racing 10-15 fps ;), doom and similar games works quite well but some 2d titles are slow.
+After recent update, its much faster!!! thanks to SuperMaxusa and Copy ;)
 ![fatal](https://github.com/user-attachments/assets/b012d80d-25cc-48c6-9864-edb2fa94ee3f)
 ![f22](https://github.com/user-attachments/assets/36b5e1bd-acc4-49ea-9f94-dbad9e89d884)
 
