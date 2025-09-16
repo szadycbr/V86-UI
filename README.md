@@ -39,7 +39,7 @@ Choose boot order from the Boot menu. Use File → Boot to start after changing 
 
 After recent update, its much faster!!! thanks to SuperMaxusa and Copy ;)
 ![fatal](https://github.com/user-attachments/assets/b012d80d-25cc-48c6-9864-edb2fa94ee3f)
-![f22](https://github.com/user-attachments/assets/36b5e1bd-acc4-49ea-9f94-dbad9e89
+![f22](https://github.com/user-attachments/assets/36b5e1bd-acc4-49ea-9f94-dbad9e89)
 
 Uploaded some floppy games for testing ;)
 
