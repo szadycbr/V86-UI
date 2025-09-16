@@ -21,13 +21,11 @@ Media
 Load images from File → Load Floppy/Hard Disk/CD-ROM. Eject from File.
     LEDs: FD/HD/CD light on activity. DrvStat squares turn green when media is loaded.
 
-Keyboard is only to use emu on
-mobile, not intended for gaming.
+Keyboard is only to use emu on mobile, not intended for gaming.
 
 Toggle on-screen keyboard from Options → Keyboard.
     Resize via Options → KBD.
-    Move KBD: drag the small handle next to the ✕ button (up/down only), freemove html kbd move freely
-    in all directions, not much use on mobile.
+    Move KBD: drag the small handle next to the ✕ button.
     Hold Shift/Alt/Ctrl for ~1s to lock; click again to unlock.
     Hold Caps for ~1s to lock; its small LED on the key shows lock state. Click again to unlock.
 
